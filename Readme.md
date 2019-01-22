@@ -8,6 +8,7 @@ _Не удаляйте и не обращайте внимание на фа�
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
 ---
+тест git из cmder 
 
 ### Памятка
 
